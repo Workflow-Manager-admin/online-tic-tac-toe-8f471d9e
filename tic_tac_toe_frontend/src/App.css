@@ -1,0 +1,16 @@
+:root {
+  --bg-primary: #ffffff;
+  --bg-secondary: #f8f9fa;
+  --text-primary: #1976D2;
+  --text-secondary: #424242;
+  --border-color: #e9ecef;
+  --button-bg: #1976D2;
+  --button-text: #ffffff;
+}
+
+.App {
+  text-align: center;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  min-height: 100vh;
+}
